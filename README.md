@@ -21,5 +21,4 @@ A dynamic web-based expense tracking system that allows users to register, log i
 | Database         | MySQL                         |
 | Server           | Apache Tomcat                 |
 
-## 📂 Project Structure
 
